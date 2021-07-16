@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.chinalike.armstemplate.services
 
+import com.github.chinalike.armstemplate.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
