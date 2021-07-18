@@ -1,1 +1,1 @@
-rootProject.name = "armsTemplate"
+rootProject.name = "arms-template-plugin"
